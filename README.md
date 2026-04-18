@@ -1,7 +1,7 @@
 <h1 align="center">Rushikesh Chavan</h1>
 
 <div align="center" style="border:1px solid #30363d; border-radius:8px; padding:15px; max-width:760px; margin:0 auto 12px auto; background:#0d1117;">
-  <b>Senior Software Engineer @ Warner Bros. Discovery</b><br/>
+  <b>Senior Software Engineer @ Warner Bros. Discovery</b><br/><br/>
 </div>
 
 - Working on Live streaming & programming [@warner bros](https://www.wbd.com/our-brands) and [@hbo max](https://www.hbomax.com)
@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
