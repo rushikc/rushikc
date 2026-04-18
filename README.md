@@ -40,15 +40,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikc&theme=github-dark&hide_title=true&hide_border=true&area=true&point=39D353&line=39D353&bg_color=0D1117&height=170" width="100%" />
-</p>
 
 
 
 ### 🏆 Certifications & Achievements
 
-* **AWS Certified Solutions Architect** (Apr 2025)
-* **HashiCorp Certified: Terraform Associate** (Oct 2024)
+* [**AWS Certified Solutions Architect**](https://www.credly.com/badges/531a2ba6-0263-4741-9db4-a5d8242d8b70/public_url)
+* [**HashiCorp Certified: Terraform Associate**](https://www.credly.com/badges/fc4a00a9-a429-492c-99b3-05060dd381e0/public_url)
 
 
