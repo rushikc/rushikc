@@ -1,6 +1,6 @@
 <h1 align="center">Rushikesh Chavan</h1>
 
-<div align="center" style="border:1px solid #30363d; border-radius:8px; padding:15px; max-width:760px; margin:0 auto 12px auto; background:#0d1117;">
+<div align="center">
   <b>Senior Software Engineer @ Warner Bros. Discovery</b><br/><br/>
 </div>
 
