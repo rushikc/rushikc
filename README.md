@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rushikc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rushikesh's Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
@@ -39,6 +39,6 @@
 
 ### 🏆 Certifications & Achievements
 
-- **[AWS Certified Solutions Architect](https://www.credly.com/badges/531a2ba6-0263-4741-9db4-a5d8242d8b70/public_url)**
-- **[HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/fc4a00a9-a429-492c-99b3-05060dd381e0/public_url)**
+* [**AWS Certified Solutions Architect**](https://www.credly.com/badges/531a2ba6-0263-4741-9db4-a5d8242d8b70/public_url)
+* [**HashiCorp Certified: Terraform Associate**](https://www.credly.com/badges/fc4a00a9-a429-492c-99b3-05060dd381e0/public_url)
 
