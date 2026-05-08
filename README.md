@@ -29,13 +29,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
-### 📊 GitHub Activity & Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushikc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rushikesh's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</p>
-
 
 ### 🏆 Certifications & Achievements
 
